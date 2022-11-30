@@ -1,3 +1,7 @@
 hello Git!
 second line
 third line
+
+Excuse me, I am a penguin
+The brown mouse eats yellow cheese
+Sorry, I am an apple
