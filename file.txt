@@ -3,4 +3,4 @@ second line
 third line
 
 Excuse me, I am penguin
-Brown mouse eats yellow cheese
+The brown mouse eats yellow cheese
